@@ -1,0 +1,11 @@
+C:\Users\chubk\source\repos\Dictionary lab1\Dictionary lab1\bin\Debug\Dictionary lab1.exe.config
+C:\Users\chubk\source\repos\Dictionary lab1\Dictionary lab1\bin\Debug\Dictionary lab1.exe
+C:\Users\chubk\source\repos\Dictionary lab1\Dictionary lab1\bin\Debug\Dictionary lab1.pdb
+C:\Users\chubk\source\repos\Dictionary lab1\Dictionary lab1\obj\Debug\Dictionary lab1.csproj.AssemblyReference.cache
+C:\Users\chubk\source\repos\Dictionary lab1\Dictionary lab1\obj\Debug\Dictionary lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\chubk\source\repos\Dictionary lab1\Dictionary lab1\obj\Debug\Dictionary lab1.csproj.CoreCompileInputs.cache
+C:\Users\chubk\source\repos\Dictionary lab1\Dictionary lab1\obj\Debug\Dictionary lab1.exe
+C:\Users\chubk\source\repos\Dictionary lab1\Dictionary lab1\obj\Debug\Dictionary lab1.pdb
+C:\Users\chubk\source\repos\Dictionary lab1\Dictionary lab1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chubk\source\repos\Dictionary lab1\Dictionary lab1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chubk\source\repos\Dictionary lab1\Dictionary lab1\obj\Debug\Dictionary lab1.csproj.CopyComplete
